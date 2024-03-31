@@ -1,0 +1,28 @@
+query1 = f""" 
+I'm researching WhatsApp for Business accounts. Can you check if the number 9876543210 is a WhatsApp for Business account? Also, provide the business description, website, email, business hours, address, and category if it is.
+"""
+Based on your query, the most suitable category of APIs would be **Data_and_Analytics**. This category includes tools that can help with data analysis and retrieval, which would be useful for researching WhatsApp for Business accounts and checking specific phone numbers like 9876543210.
+
+
+query2 = "I want to book flight from bangalore to chennai on next week sunday. can you find suitable flight for me?"
+Based on the query provided, the best category for this would be **Travel_and_Transportation**. This category includes tools related to booking flights, transportation services, and travel information.
+
+
+query3 = "I want to order food for upcoming diwali festival. which hotel can serve this order?"
+Based on the query provided, the best category of APIs would be **Travel_and_Transportation**. This category includes tools related to booking services, such as hotels and restaurants, which would be relevant for ordering food for a festival like Diwali.
+
+
+query4 = "I want to buy new dress for my anniversary."
+Based on the query "I want to buy a new dress for my anniversary," the best category of APIs would be **Utilities_and_Tools**. This category includes tools that can help with tasks like language translation, weather information, and image search, which could be useful for finding the perfect dress for your anniversary.
+
+
+query5 = "I want to get summary on this judgment file."
+Based on the query "I want to get summary on this judgment file," the best category of APIs would be **Legal_Services**. Specifically, tools like **Summarizer** or **Legal research** could be helpful in generating a summary of the judgment file.
+
+
+query6 = "I need to analyze the finance document."
+Based on the query "I need to analyze the finance document," the best category of APIs would be **Business_and_Finance**. These APIs are specifically designed to handle tasks related to finance, such as analyzing financial documents, currency conversion, market analytics, and more.
+
+
+query7 = "I want newsfeed for the media file"
+Based on the query "I want newsfeed for the media file," the best category of APIs would be **Media_and_Entertainment**. This category includes tools like "OTT details," "YouTube Mp3 Downloader," and "Cheap YouTube API" which are more aligned with providing newsfeed and media-related services.
